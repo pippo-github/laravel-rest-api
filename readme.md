@@ -30,11 +30,11 @@ JsonResource, which is used to return and customize db data in JSON format.
 
 
 
-*What you need to create to make the application work:*
+*What you need to create to make the application work:*<br/><br/>
 
-Create a db called: "laravel-rest-api"
-create a table to populate: "rest_api_table"
-You can use the db dump file: "DB-laravel-rest-api"
+Create a db called: "laravel-rest-api"<br/>
+create a table to populate: "rest_api_table"<br/>
+You can use the db dump file: "DB-laravel-rest-api"<br/>
 <br/>
 <br/>
 <br/>
@@ -116,11 +116,11 @@ Il ruolo principale all'interno dell'applicazione e' svolto dalla classe JsonRes
 
 
 
-*Cosa occorre craeare per far funzionare l'applicazione:*
+*Cosa occorre craeare per far funzionare l'applicazione:*<br/><br/>
 
-Creare un db chiamato: "laravel-rest-api"
-creare una tabella da popolare: "rest_api_table"
-Puoi usare il dump file del db: "DB-laravel-rest-api" 
+Creare un db chiamato: "laravel-rest-api"<br/>
+creare una tabella da popolare: "rest_api_table"<br/>
+Puoi usare il dump file del db: "DB-laravel-rest-api"<br/> 
 <br/>
 <br/>
 <br/>
