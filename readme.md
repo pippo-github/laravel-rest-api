@@ -86,7 +86,7 @@ $ composer require laravelcollective/html <br/>
 
 # Descrizione Progetto
 
-Progetto User post -- 
+Progetto User post -
 ------------------------
 
 **Scopo dell'applicazione:** Il progetto da' la possibilita' d'inserire dei dati in un db MySQL e di mostrarli attraverso lo standard JSON:API, applicazione atta alla creazione di dati in formato REST API/JSON.
