@@ -21,7 +21,7 @@ JsonResource, which is used to return and customize db data in JSON format.
 * Uses Bootstrap for styling CSS classes
 * Show how to use a shared Balde layout
 * Show how to use static asset assets like .css and .js files
-* Show how to implement flash sessions and $ errors
+* Show how to implement flash sessions and $errors
 * Show how to use CRUD functions on db
 * Shows how to enhance tables by massive data insertion: Bulk insert/create
 * Shows how to check the user data entered in the forms, through Validator ($request)
